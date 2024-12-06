@@ -8,17 +8,6 @@ import 'package:flutter/material.dart';
 
 
 
-//steps
-//checkout master
-//fetch master [update master]
-//create branch from master [new Task]
-//code the task 
-//commit
-//checkout master
-//fetch master [update master]
-//merge master with my branch
-//push to Github
-//pull request
 class LoginPage extends StatelessWidget {
   //email and pw text controllers
   final TextEditingController _emailcontroller = TextEditingController();
