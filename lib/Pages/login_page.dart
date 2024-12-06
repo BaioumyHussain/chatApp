@@ -3,12 +3,12 @@ import 'package:chatapp/Components/my_textfield.dart';
 import 'package:chatapp/Services/auth/auth_service.dart';
 import 'package:flutter/material.dart';
 
-//login from baioumy hussain
+//login from baioumy hussain hh
 
 //steps
 //checkout master
 //fetch master [update master]
-//create branch from master [new Task]
+//create branch from master [new Task] || if i already have branch use git merge master
 //code the task 
 //commit
 //checkout master
