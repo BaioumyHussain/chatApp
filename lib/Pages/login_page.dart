@@ -2,7 +2,23 @@ import 'package:chatapp/Components/my_buttons.dart';
 import 'package:chatapp/Components/my_textfield.dart';
 import 'package:chatapp/Services/auth/auth_service.dart';
 import 'package:flutter/material.dart';
+
 //login from baioumy hussain
+//login from bibo
+
+
+
+//steps
+//checkout master
+//fetch master [update master]
+//create branch from master [new Task]
+//code the task 
+//commit
+//checkout master
+//fetch master [update master]
+//merge master with my branch
+//push to Github
+//pull request
 class LoginPage extends StatelessWidget {
   //email and pw text controllers
   final TextEditingController _emailcontroller = TextEditingController();
